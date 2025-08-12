@@ -1,4 +1,4 @@
-library utility_extensions;
+library helper_extensions;
 
 export 'extensions/context_extensions.dart';
 export 'extensions/materialState_extention.dart';

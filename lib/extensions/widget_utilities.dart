@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 
 extension WidgetUtilities on Widget {
   Widget get toSliver => SliverToBoxAdapter(child: this,);

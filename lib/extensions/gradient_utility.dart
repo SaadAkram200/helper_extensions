@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:utility_extensions/utility_extensions.dart';
+import 'package:helper_extensions/utility_extensions.dart';
+
 
 extension Gradient on LinearGradient {
   LinearGradient invert(){
