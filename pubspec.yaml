@@ -1,7 +1,7 @@
 name: utility_extensions
 description: This package will help you to reduce your code for many things.
 version: 1.0.3
-homepage: https://github.com/hamzali4642/utility_extensions
+homepage: https://github.com/SaadAkram200/utility_extensions.git
 
 environment:
   sdk: '>=2.18.2 <4.0.0'
